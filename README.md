@@ -4,3 +4,6 @@
  CLASS ABOUT: AI Online Education..
  
  
+ ## idea
+ # 장애인 먹거리 관광 여행 현황분석-> 쾌적한 먹거리 관광 안내
+ 
